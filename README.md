@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images2.minutemediacdn.com/image/upload/c_crop,h_1351,w_2400,x_0,y_0/v1571796144/shape/mentalfloss/604599-gettyimages-1083893950.jpg?itok=om3ZU-xi" width="400"/>
+  <img src="https://www.tnp.sg/sites/default/files/styles/rl680/public/articles/2017/09/04/cthigh04_tiltshift_traffic.jpg?itok=GxRpXyc5" width="400"/>
 </p>
 
 <h1 align="center">
