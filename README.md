@@ -24,7 +24,7 @@ This error will happen if you using Android 9(SDK >= 28) and lastest.
 
 </manifest>
 ```
-
+#
 #### Step 2.
 Make directory `xml` on `res`.
 
@@ -32,6 +32,7 @@ Make directory `xml` on `res`.
   <img src="https://github.com/gzeinnumer/CleartextTrafficError/blob/master/preview/CleartextTrafficError_1.JPG" width="400"/>
 </p>
 
+#
 #### Step 3.
 Make file `network_security_config.xml` inside `res->xml`.
 
@@ -49,6 +50,7 @@ Make file `network_security_config.xml` inside `res->xml`.
     </domain-config>
 </network-security-config>
 ```
+
 ---
 
 ```
