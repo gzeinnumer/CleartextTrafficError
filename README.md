@@ -29,14 +29,14 @@ This error will happen if you using Android 9(SDK >= 28) and lastest.
 Make directory `xml` on `res`.
 
 <p align="center">
-  <img src="![](https://github.com/gzeinnumer/CleartextTrafficError/blob/master/preview/CleartextTrafficError_1.JPG)" width="400"/>
+  <img src="https://github.com/gzeinnumer/CleartextTrafficError/blob/master/preview/CleartextTrafficError_1.JPG" width="400"/>
 </p>
 
 #### Step 3.
 Make file `network_security_config.xml` inside `res->xml`.
 
 <p align="center">
-  <img src="![](https://github.com/gzeinnumer/CleartextTrafficError/blob/master/preview/CleartextTrafficError_2.JPG)" width="400"/>
+  <img src="https://github.com/gzeinnumer/CleartextTrafficError/blob/master/preview/CleartextTrafficError_2.JPG" width="400"/>
 </p>
 
 ```xml
