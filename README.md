@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://bordencom.com/wp-content/uploads/2016/03/Do-You-Have-Permission.png" width="400"/>
+  <img src="https://images2.minutemediacdn.com/image/upload/c_crop,h_1351,w_2400,x_0,y_0/v1571796144/shape/mentalfloss/604599-gettyimages-1083893950.jpg?itok=om3ZU-xi" width="400"/>
 </p>
 
 <h1 align="center">
     CleartextTrafficError
 </h1>
 
-This error will happen if you using android 9 and lastest.
+This error will happen if you using Android 9(SDK >= 28) and lastest.
 
 #
 #### Step 1.
