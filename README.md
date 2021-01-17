@@ -6,6 +6,12 @@
     CleartextTrafficError
 </h1>
 
+Simple Way
+```xml
+android:usesCleartextTraffic="true"
+```
+
+#
 This error will happen if you using Android 9(SDK >= 28) and lastest.
 
 #
