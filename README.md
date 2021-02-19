@@ -46,6 +46,17 @@ Make file `network_security_config.xml` inside `res->xml`.
   <img src="https://github.com/gzeinnumer/CleartextTrafficError/blob/master/preview/CleartextTrafficError_2.JPG" width="400"/>
 </p>
 
+- Single IP/Domain
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">192.168.1.1</domain>
+    </domain-config>
+</network-security-config>
+```
+
+- Multi IP/Domain
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <network-security-config>
