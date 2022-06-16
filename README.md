@@ -8,7 +8,16 @@
 
 Simple Way
 ```xml
-android:usesCleartextTraffic="true"
+<manifest >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:usesCleartextTraffic="true">
+
+    </application>
+
+</manifest>
 ```
 
 #
